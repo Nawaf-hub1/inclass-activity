@@ -11,3 +11,6 @@ document.querySelector('input[type="checkbox"]').addEventListener('change', func
         }
     }
 }, false);
+
+//Reference: adding event listener to do stuff when the check box is checked and unchecked
+// https://stackoverflow.com/questions/16051360/do-an-action-when-check-box-is-checked-or-unchecked
